@@ -26,7 +26,7 @@ This is a clone of paytm website, a tailwind project given by Ineuron.
 ### Links
 
 - Code File URL: [github.com](https://github.com/Jyotimoykathar/Paytm_Clone)
-- Live Site URL: [netlify.app](https://project-15-product-design.netlify.app/)
+- Live Site URL: [netlify.app](https://paytm-clone-with-tailwindcss.netlify.app/)
 
 ## My process
 
@@ -79,4 +79,4 @@ Animation and JS need to be added to make the page more interactive and beautifu
 
 ## Acknowledgments
 
-Special Thanks to Ineuron team for the Project to learn and improve my Tailwind css libray skills .
+Special Thanks to Ineuron team for the Project to learn and improve my Tailwind css framework skills .
